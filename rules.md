@@ -8,13 +8,13 @@
 
 3️⃣  **All posts must be SFW.** No gore, porn, suggestive content, etc.
 
-4️⃣  **This is not a general politics server.** If you want to talk about any important political point(s), we encourage you do so on DAM Political https://discord.gg/S3Sk23ffEE , another student-run OSU Discord.
+4️⃣  **This is not a general politics server.** If you want to talk about any important political point(s), we encourage you do so on DAM Political https://discord.gg/S3Sk23ffEE, another student-run OSU Discord.
 
 5️⃣  Keep casual conversations out of specific/class-help channels.
 
 6️⃣  Keep bot commands to the 🤖-bot-commands channel.
 
-Moderation:
+**Moderation**:
 
 7️⃣  **@Prophet of Evan are moderators.** They enforce the rules as written here and have the final say.
 
