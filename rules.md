@@ -25,17 +25,3 @@
 9️⃣  If you have a problem with someone or would like to report an incident, **DM a moderator about it.** Do not involve the whole server in a confrontation.
 
 🔟  Someone else breaking these rules **does not give you permission to break them.**
-
----
-
-To reduce clutter, class channels are role-based.  You can opt-in to any class channel by using the !role command in 🤖-bot-commands. There is also an allclasses role to see all classes.
-If we have missed a CS/ECE class, let us know and we will add it!
-
-If you have questions for non-CS/ECE classes, use general-homework-help or ask in a more specific server -- check out the OSU Discord Directory https://discord.gg/KnCzPPZvvq.
-
----
-
-This is not a mental health discord. We would love to help you, but we are not trained to help and run a large risk of hurting you instead. If you came here for mental help, we ask that you go to https://counseling.oregonstate.edu/ for help.
-If you are in immediate crisis, please contact the Crisis Text Line by texting OREGON to 741-741 or call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255).
-
-⚠️ TO ACCESS THE REST OF THE SERVER, ADD YOUR CLASS ROLES BELOW OR WITH /role add & /role remove
