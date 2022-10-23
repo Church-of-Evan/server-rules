@@ -18,7 +18,7 @@
 
 **Moderation**:
 
-7️⃣  **@Prophet of Evan are moderators.** They enforce the rules as written here and have the final say.
+7️⃣  **<@694642088314142762> are moderators.** They enforce the rules as written here and have the final say.
 
 8️⃣  **We use a 1-strike policy system.** You will be given a strike by a moderator for the first offence. A second offense will result in a ban.
 
