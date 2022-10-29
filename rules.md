@@ -10,7 +10,7 @@
 
 3️⃣  **All posts must be SFW.** No gore, porn, suggestive content, etc.
 
-4️⃣  **This is not a general politics Discord server.** If you want to talk about any important political point(s), we encourage you do so on DAM Political <https://discord.gg/S3Sk23ffEE>, another student-run OSU Discord.
+4️⃣  **This is not a general politics Discord server.** If you want to talk about any important political point(s), we encourage you do so on DAM Political (https://discord.gg/bM36xbbu5N), another student-run OSU Discord.
 
 5️⃣  Keep casual conversations out of specific/class-help channels.
 
