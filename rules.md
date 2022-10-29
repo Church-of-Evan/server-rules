@@ -3,20 +3,20 @@
 **Chat:**
 
 1️⃣  **Be respectful of other people.** Sexism, racism, or other forms of derogatory speech are not tolerated. No personal attacks and harassments are allowed. As this is an OSU-related server, you must follow the OSU Code of Student Conduct [1].
-    • This includes discussions about instructors/professors. It's OK to discuss the pros and cons of different professors' classes and teaching styles. It's not OK to personally attack professors for, for instance, bad teaching.
-    • It also includes heated discussions on programming languages, text editors, and other such "hot topics" in programming. It is fine to discuss the merits of different technologies, but do not insult people based on their choice of language/editor/etc.
+   • This includes discussions about instructors/professors. It's OK to discuss the pros and cons of different professors' classes and teaching styles. It's not OK to personally attack professors for, for instance, bad teaching.
+   • It also includes heated discussions on programming languages, text editors, and other such "hot topics" in programming. It is fine to discuss the merits of different technologies, but do not insult people based on their choice of language/editor/etc.
 
-    [1] <https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/student-conduct-community-standards/Code/code_of_conduct_83-2_compressed.pdf>
+   [1] <https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/student-conduct-community-standards/Code/code_of_conduct_83-2_compressed.pdf>
 
 2️⃣  **Keep invites to OSU students, alumni, or faculty.** This is only a semi-public server. Do not post invite links publicly.
 
 3️⃣  **All posts must be SFW.** No gore, porn, suggestive content, etc.
 
-4️⃣  **This is not a general politics Discord server.** If you want to talk about any important political point(s), we encourage you do so on DAM Political (https://discord.gg/bM36xbbu5N), another student-run OSU Discord.
+4️⃣  **This is not a general politics Discord server.** If you want to talk about any important political point(s), we encourage you do so on DAM Political (<https://discord.gg/bM36xbbu5N>), another student-run OSU Discord.
 
-5️⃣  Keep casual conversations out of specific/class-help channels.
+5️⃣  Keep casual conversations out of class-help channels.
 
-6️⃣  Keep bot commands to the 🤖-bot-commands channel.
+6️⃣  Keep bot commands to <#694654988089294943>.
 
 **Moderation**:
 
