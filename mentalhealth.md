@@ -1,0 +1,2 @@
+**This is not a mental health Discord.** We would love to help you, but we are not trained to help and run a large risk of hurting you instead. If you came here for mental help, we ask that you go to https://counseling.oregonstate.edu/ for help.
+**If you are in immediate crisis, please contact the Crisis Text Line by texting OREGON to 741-741 or call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255). **
