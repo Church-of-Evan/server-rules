@@ -1,4 +1,4 @@
-test**SERVER RULES:**
+**SERVER RULES:**
 
 **Chat:**
 
