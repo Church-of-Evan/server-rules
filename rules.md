@@ -5,6 +5,7 @@
 1️⃣  **Be respectful of other people.** Sexism, racism, or other forms of derogatory speech are not tolerated. No personal attacks and harassments are allowed. As this is an OSU-related server, you must follow the OSU Code of Student Conduct.
    • This includes discussions about instructors/professors. It's OK to discuss the pros and cons of different professors' classes and teaching styles. It's not OK to personally attack professors for, for instance, bad teaching.
    • It also includes heated discussions on programming languages, text editors, and other such "hot topics" in programming. It is fine to discuss the merits of different technologies, but do not insult people based on their choice of language/editor/etc.
+   • Posts that violate the student conduct of conduct are not allowed. Do not post links to servers that offer plagarism services. If you would like help with your code, please only post the minimal amount required for the help you need (3-5 lines are usually acceptable).
 
 2️⃣  **Keep invites to OSU students, alumni, or faculty.** This is only a semi-public server. Do not post invite links publicly.
 
