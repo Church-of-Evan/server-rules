@@ -10,7 +10,7 @@
 
 3️⃣  **All posts must be SFW.** No gore, porn, suggestive content, etc.
 
-4️⃣  **No politics.** There is another server which has a political channel, Dam Discord. https://discord.gg/XB8jN5s3hk
+4️⃣  **No politics.** There is another server which has a political channel, Dam Discord. https://discord.gg/pQMeSKbQeD
 
 5️⃣  Keep casual conversations out of class-help channels.
 
